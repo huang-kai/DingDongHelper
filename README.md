@@ -8,8 +8,7 @@
 
 ### 下载
 
-1. [https://github.com/Skykai521/DingDongHelper/blob/main/app/release/app-release.apk](https://github.com/Skykai521/DingDongHelper/blob/main/app/release/app-release.apk)
-2. 关注公众号：**SkyKai** 。回复：**叮咚助手**
+[https://github.com/Skykai521/DingDongHelper/blob/main/app/release/app-release.apk](https://github.com/Skykai521/DingDongHelper/blob/main/app/release/app-release.apk)
 
 
 ### 版权说明
